@@ -29,7 +29,7 @@ public class NumerosPrimos {
 			}
 
 			if (primo) {
-				System.out.println("O numero:" + numeroPrimo + " é primo ");
+				System.out.println("O numero:" + numeroPrimo + " é primo");
 			}
 
 		}
